@@ -1,4 +1,4 @@
-# CloudVerse
+# AI-Hub
 This repository is totally dedicated to Hacktoberfest 2022, feel free to add your project.
 
 # HacktoberFest22
@@ -11,7 +11,7 @@ Create a Pull request and add any feature update to the repository.
 # How to contribute to this project?
 Here are 2 quick and painless ways to contribute to this project:
 
-- Add a valuable stuff whether article, code, blog or anything else related to cloud that can help others.
+- Add a stuff or script/algorithm related to artificial intelligence.
 - Add your details following template of `Contributors.md` file in `Contributors` folder. Make a new `.md` file with your name. (Follow the template and don't remove any brackets from the template).
 Choose both, make a pull request for your work and wait for it to be merged!!
 
@@ -19,7 +19,7 @@ Choose both, make a pull request for your work and wait for it to be merged!!
 - Fork this repository (Click the Fork button on the top right of this page, click your Profile Image)
 - Clone your forked down repository to your local machine.
 ```
-git clone https://github.com/yourusername/cloudverse
+git clone https://github.com/yourusername/ai-hub
 ```
 - Create a branch
 ```
