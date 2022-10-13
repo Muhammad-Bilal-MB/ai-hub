@@ -1,6 +1,8 @@
 # AI-Hub
 This repository is totally dedicated to Hacktoberfest 2022, feel free to add your project.
 
+![HacktoberFest 2022](./HacktoberFest 2022.png)
+
 # HacktoberFest22
 Hello Hackers, Contributors! HacktoberFest has begun again for year 2022, and everyone's excited to get started! Contribute between:
 
